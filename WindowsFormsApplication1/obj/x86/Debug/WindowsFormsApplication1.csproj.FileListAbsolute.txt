@@ -1,0 +1,7 @@
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\FARWA AKRAM\Documents\Visual Studio 2010\Projects\Project_Department\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
